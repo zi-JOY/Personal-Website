@@ -1,0 +1,46 @@
+body {
+    background-color: bisque;
+    margin: 3%;
+    font-family: "Sofia", sans-serif;
+}
+.name{
+    color: orange;
+    font-size: xx-large;
+}
+.half-width{
+    width: 50%;
+    float: left;
+    
+}
+.half-width img{
+    width: 70%;
+}
+.button{
+    text-decoration: none;
+    color: black;
+    font-family: bold;
+    background-color: orange;
+    padding: 10px;
+    border-radius: 10px;
+    background-image: linear-gradient(45deg,orange,red);
+}
+.works{
+    width: 30%;
+    float: left;
+    background-color: orange;
+    padding: 10px;
+    border-radius: 80px;
+}
+.works img{
+    width: 80%;
+    padding: 20px;
+}
+.gmail{
+    margin: auto;
+    width: 50%;
+    border: 5px solid yellow;
+    padding: 10px;
+    background-color: orange;
+    text-align: center;
+    border-radius: 50px;
+}
